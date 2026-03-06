@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-06 18:38:17,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
+2026-03-07 06:30:08,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
@@ -857,7 +857,6 @@ CETV4,rtsp://60.13.39.18/PLTV/88888910/224/3221225594/10000100000000060000000000
 
 ☘️重庆频道,#genre#
 璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd$订阅源
-铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd$订阅源
 重庆汽摩,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000371?AuthInfo=xxx&userid=gf001&userid=gf001$订阅源
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$订阅源
 潼南综合,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd$订阅源
@@ -912,8 +911,6 @@ CETV4,rtsp://60.13.39.18/PLTV/88888910/224/3221225594/10000100000000060000000000
 无锡经济,https://stream.thmz.com/wxtv5/playlist.m3u8$订阅源
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867#http://stream.thmz.com/wxtv5/playlist.m3u8#http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772$订阅源
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708#http://stream.thmz.com/wxtv3/playlist.m3u8#http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861$订阅源
-武进新闻,https://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$订阅源
-武进生活,https://live.wjyanghu.com/live/CH2.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$订阅源
 江宁新闻,rtmp://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh$订阅源
 江苏城市,http://z.b.bkpcp.top/m.php?id=jscs$订阅源
 江苏影视,http://z.b.bkpcp.top/m.php?id=jsys$订阅源
@@ -1006,6 +1003,7 @@ CETV4,rtsp://60.13.39.18/PLTV/88888910/224/3221225594/10000100000000060000000000
 南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d$订阅源
 宾阳综合,http://pulls.myun.tv/live/0dkp33j5.m3u8$订阅源
 宾阳综合,rtmp://live.gxrb.com.cn/gx/binyang$订阅源
+来宾综合,http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8$订阅源
 灌阳新闻综合,http://pulls.myun.tv/live/0dkp33j5.m3u8$订阅源
 灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8$订阅源
 灌阳新闻综合,https://mobilelive.gxtv.cn/live/gx_live1007/playlist.m3u8$订阅源
@@ -1214,7 +1212,6 @@ CETV4,rtsp://60.13.39.18/PLTV/88888910/224/3221225594/10000100000000060000000000
 昌黎,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8$订阅源
 清河新闻综合,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8$订阅源
 清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8$订阅源
-衡山,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8$订阅源
 
 ☘️贵州频道,#genre#
 安顺新闻,http://hplayer1.juyun.tv/camera/154379194.m3u8$订阅源
@@ -1329,9 +1326,6 @@ CETV4,rtsp://60.13.39.18/PLTV/88888910/224/3221225594/10000100000000060000000000
 日照公共,http://live.rzw.com.cn/kzpd/sd/live.m3u8?shandd$订阅源
 日照新闻综合,http://live.rzw.com.cn/xwzh/sd/live.m3u8?shandd$订阅源
 日照科教,http://live.rzw.com.cn/ggpd/sd/live.m3u8?shandd$订阅源
-菏泽影,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8?shandd$订阅源
-菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd$订阅源
-菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd$订阅源
 
 ☘️山西频道,#genre#
 万荣综合,http://60.222.246.220:19433/hls1.m3u8$订阅源
@@ -1467,10 +1461,6 @@ CETV4,rtsp://60.13.39.18/PLTV/88888910/224/3221225594/10000100000000060000000000
 黑龙江少儿,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8$订阅源
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8$订阅源
 哈尔滨新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226434$订阅源
-哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://stream.hrbtv.net/yspd/sd/live.m3u8$订阅源
-哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8$订阅源
-哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild$订阅源
-哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild#http://stream.hrbtv.net/ylpd/sd/live.m3u8#https://stream.hrbtv.net/ylpd/sd/live.m3u8$订阅源
 大庆新闻综合,rtmp://masterpull.hljtv.com/live/4WdrZLCq$订阅源
 鹤岗新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226534$订阅源
 鹤岗新闻综合,http://[2409:8087:1a01:df::4059]:80/TVOD/88888888/224/3221226073/main.m3u8$订阅源
